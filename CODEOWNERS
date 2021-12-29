@@ -1,0 +1,4 @@
+# Code owners groups and a brief description of their areas:
+
+# API Reviewers
+/openapi/spec/*.yaml @k9test/qa
